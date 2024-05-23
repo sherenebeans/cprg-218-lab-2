@@ -113,3 +113,26 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Croissants
+
+Ingredients:
+- 4 cups all-purpose flour
+- 1/2 cup warm water
+- 1/2 cup warm milk
+- 1/4 cup sugar
+- 2 1/4 tsp active dry yeast
+- 1 tsp salt
+- 1 cup unsalted butter, cold
+- 1 egg, beaten (for egg wash)
+
+Instructions:
+1. Mix warm water, warm milk, sugar, and yeast. Let sit for 5 minutes.
+2. Add flour and salt. Knead until smooth. Let rise for 1 hour.
+3. Slice and flatten butter between parchment paper. Chill until firm.
+4. Roll dough into a rectangle. Place butter in center. Fold and seal edges.
+5. Roll and fold dough into thirds. Chill 30 minutes. Repeat 2 more times. Chill 1 hour.
+6. Roll dough into a rectangle. Cut into triangles. Roll into crescents. Let rise 1-2 hours.
+7. Preheat oven to 400°F (200°C). Brush with egg. Bake 18-20 minutes.
+
